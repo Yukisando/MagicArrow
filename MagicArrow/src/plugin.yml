@@ -1,0 +1,7 @@
+name: MagicArrow
+version: 1.0
+main: me.yukisando.MagicArrow.MagicArrowMain
+commands:
+   MA:
+      description: Adds Magic Powers to your Bow.
+      usage: /<command>
